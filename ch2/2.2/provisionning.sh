@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+export $PATH:/usr/local/bin
 # 프로비저닝 스크립트가 위치하는 디렉터리
 SCRIPTDIR=$HOME/_Lecture_prometheus_learning.kit/ch2/2.2/provisionning
 # 헬름 업데이트
